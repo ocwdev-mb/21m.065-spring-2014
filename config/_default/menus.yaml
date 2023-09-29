@@ -1,0 +1,31 @@
+leftnav:
+- identifier: e23d398e-dae9-1822-f33c-5ab0761871b1
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: ccb935c1-1603-6852-319c-bd1588cd7136
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: ddc38aaa-b8f7-02e5-6154-78b0d7710361
+  name: Course Goals in Depth
+  pageRef: /pages/instructor-insights/course-goals-in-depth
+  parent: ccb935c1-1603-6852-319c-bd1588cd7136
+  weight: 30
+- identifier: ec47d344-4f30-04f3-17dc-137f3c5db9bf
+  name: Purposeful Pedagogical Decisions
+  pageRef: /pages/instructor-insights/purposeful-pedagogical-decisions
+  parent: ccb935c1-1603-6852-319c-bd1588cd7136
+  weight: 40
+- identifier: 69da9d79-f242-d8d4-9fb5-d629abec6270
+  name: Listening and Readings
+  pageRef: /pages/listening-and-readings
+  weight: 50
+- identifier: 229bd1d2-f371-61f8-d193-31a304846016
+  name: Composition Assignments
+  pageRef: /pages/composition-assignments
+  weight: 60
+- identifier: e102457a-ce42-1826-0db6-c6b95d84d3ac
+  name: Tools
+  pageRef: /pages/tools
+  weight: 70
